@@ -1,0 +1,8 @@
+#+TITLE: Dash Docsets for GAP and FinInG
+
+This repo contains compiled docsets for the [[https://www.gap-system.org/][GAP]] programming language and the
+[[https://www.gap-system.org/Packages/fining.html][FinInG]] package for GAP. The compiled docsets are for version GAP version 4.11.1
+and FinInG version 1.4.1 using the HTML documentation provided from the Arch
+Linux package =gap-doc=. The file =generate.py= can be used to generate
+documentation for other GAP packages, and for future versions provided the
+layout of the manual remains constant.
